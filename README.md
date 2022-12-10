@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dang Bowen
 - 👀 I'm interested in Computer Graphics and Computer Vision
-- 🌱 I've got my bachelor's degree in Xi'an Jiaotong University in 2021
+- 🌱 I've got my bachelor's degree in Xi'an Jiaotong University
 - 💞️ I'm pursuing my master's degree in Xi'an Jiaotong University
 - 📫 ...
 
