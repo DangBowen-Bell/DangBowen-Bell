@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dang Bowen
-- 👀 I'm interested in Computer Graphics and Computer Vision
+- 👀 I'm interested in Computer Graphics and 3D Computer Vision
 - 🌱 I've got my bachelor's degree in Xi'an Jiaotong University
 - 💞️ I'm pursuing my master's degree in Xi'an Jiaotong University
-- 📫 I'm looking for a doctoral position in Europe
+- 📫 I'm looking for a doctoral position in 2024
 - ...
 
 <!---
